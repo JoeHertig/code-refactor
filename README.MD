@@ -1,1 +1,6 @@
-# Code Refactor Starter Code
+# Code Refactor Challenge 1
+
+## Goal
+The goal is to create a semantic structure of HTML elements, which follow a logical structure idependent of styling and positioning.  To create alt attributes for image elements and to make sure everything falls in sequential order when necessary while being descriptive. 
+[Horiseon] (file:///C:/Users/Joe/Desktop/projects/challenge/code-refactor/Develop/index.html)
+![Screenshot] (./Develop/assets/images/Screenshot)
