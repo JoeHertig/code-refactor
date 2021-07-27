@@ -4,4 +4,4 @@ The goal is to create a semantic structure of HTML elements, which follow a logi
 ## Screenshot
 ![Screenshot](https://github.com/JoeHertig/code-refactor/blob/main/Develop/assets/images/Screenshot.JPG)
 ## URL
-[URL-Horiseon](file:///C:/Users/Joe/Desktop/projects/challenge/code-refactor/Develop/index.html)
+file:///C:/Users/Joe/Desktop/projects/challenge/code-refactor/Develop/index.html
